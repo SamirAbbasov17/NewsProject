@@ -1,0 +1,62 @@
+.fh5co_latest_trading_img {
+    height: 326px;
+    overflow: hidden;
+}
+.fh5co_latest_trading_img > img {
+    height: 340px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.fh5co_suceefh5co_height > img {
+    height: 560px;
+    width: 100%;
+    object-fit: cover;
+}
+.fh5co_suceefh5co_height_2 > img {
+    height: 275px;
+    width: 100%;
+    object-fit: cover;
+}
+.fh5co_news_img > img {
+    height: 260px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.fh5co_hover_news_img_video_tag_position_absolute>img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+/*.fh5co_most_trading1 {*/
+/*    height: 60px;*/
+/*    width: 100%;*/
+/*    object-fit: cover;*/
+/*}*/
+
+/*.myPagination a{*/
+/*    background: #f1f1f1!important;*/
+/*    color: #222;*/
+/*    padding: 12px 10px!important;*/
+/*    font-weight: 800;*/
+/*    margin: 0 5px;*/
+/*    transition: 0.5s;*/
+/*    font-size: 12px;*/
+/*}*/
+/*.myPagination strong{*/
+/*    background: #f1f1f1!important;*/
+/*    color: #222;*/
+/*    padding: 12px 10px!important;*/
+/*    font-weight: 800;*/
+/*    margin: 0 5px;*/
+/*    transition: 0.5s;*/
+/*    font-size: 12px;*/
+/*}*/
+/*.myPagination a:hover,.myPagination a:focus{*/
+/*    background: #222!important;*/
+/*    color: #fff;*/
+/*}*/
